@@ -8,7 +8,8 @@
 
 In this project, I defined and trained a DCGAN on a dataset of faces. The goal of this project is to get a generator network to generate _new_ images of faces that look as realistic as possble. The image below is a result of the training:
 
-![Generated Faces][image1]
+![example](https://user-images.githubusercontent.com/26524467/56185030-db4a6900-6039-11e9-8337-5d05ce5025ec.jpg)
+
 
 
 ## Project Instruction
